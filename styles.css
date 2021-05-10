@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#completed {
+    margin: 15px 0;
+}
+
+#completed-title {
+    font-weight: bold;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.incomplete {
+    color: red;
+}
